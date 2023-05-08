@@ -2,6 +2,6 @@
 
 C++ Fundamental Questions
 
-1. WAP to Print Hello world in C++
+<h1>1.WAP to Print Hello world in C++ .</h1>
 
-2. WAP to find factorial of a number .
+<h1>2. WAP to find factorial of a number .</h1>
